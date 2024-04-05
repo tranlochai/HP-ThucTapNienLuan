@@ -1,0 +1,37 @@
+/* menu.html */
+
+/* Footer */
+.footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: #f8f9fa; /* Màu nền của footer */
+}
+
+{
+margin:0; padding;
+box-sizing: border;
+outline: none; border;
+text-transform;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.container {
+    min-height: 100vh;
+    display: grid;
+    place-items: center;
+    padding-bottom: 60px;
+    background:linear-gradient(Orgba(0,0,0,.3),rgba(0,0,0,.3)),  url(https://source.unsplash.com/random) no-repeat;
+    background-size: cover;
+    background-position: center;
+    }
+
+.container .content{
+    text-align: center;
+    }
+    container .content h3{
+    font-size: 40px;
+    color: #fff;
+    padding:5px 0;
+
+    }

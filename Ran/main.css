@@ -1,0 +1,27 @@
+/* menu.html */
+
+/* Footer */
+.footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: #f8f9fa; /* Màu nền của footer */
+}
+
+.image-container {
+    width: 100px; /* Đặt kích thước khung ảnh */
+    height: 100px;
+    border: 2px solid #333;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+  }
+
+  #randomImage {
+    max-width: 100px;
+    max-height: 100px;
+    display: block;
+  }
+
+  
